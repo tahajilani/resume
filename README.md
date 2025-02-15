@@ -11,5 +11,3 @@ This is my personal portfolio website showcasing my professional experience, pro
 1. Clone the repository
 2. Open index.html in your browser
 
-## Live Site
-Visit the live site at: https://[your-github-username].github.io 
